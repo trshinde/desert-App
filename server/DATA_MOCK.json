@@ -1,0 +1,262 @@
+[
+    {
+        "desert": "Cupcake",
+        "nutritionInfo": {
+            "calories": 305,
+            "fat": 3.7,
+            "carb": 67,
+            "protein": 4.3
+        }
+    },
+    {
+        "desert": "Donut",
+        "nutritionInfo": {
+            "calories": 452,
+            "fat": 25,
+            "carb": 51,
+            "protein": 4.9
+        }
+    },
+    {
+        "desert": "Eclair",
+        "nutritionInfo": {
+            "calories": 262,
+            "fat": 16,
+            "carb": 24,
+            "protein": 6
+        }
+    },
+    {
+        "desert": "Frozen yoghurt",
+        "nutritionInfo": {
+            "calories": 159,
+            "fat": 6,
+            "carb": 24,
+            "protein": 4
+        }
+    },
+    {
+        "desert": "Cookies",
+        "nutritionInfo": {
+            "calories": 356,
+            "fat": 16,
+            "carb": 49,
+            "protein": 3.9
+        }
+    },
+    {
+        "desert": "Honeycomb",
+        "nutritionInfo": {
+            "calories": 408,
+            "fat": 3.2,
+            "carb": 87,
+            "protein": 6.5
+        }
+    },
+    {
+        "desert": "Ice cream sandwich",
+        "nutritionInfo": {
+            "calories": 237,
+            "fat": 9,
+            "carb": 37,
+            "protein": 4.3
+        }
+    },
+    {
+        "desert": "Jelly Bean",
+        "nutritionInfo": {
+            "calories": 375,
+            "fat": 0,
+            "carb": 94,
+            "protein": 0
+        }
+    },
+    {
+        "desert": "KitKat",
+        "nutritionInfo": {
+            "calories": 518,
+            "fat": 26,
+            "carb": 65,
+            "protein": 7
+        }
+    },
+    {
+        "desert": "Lollipop",
+        "nutritionInfo": {
+            "calories": 392,
+            "fat": 0.2,
+            "carb": 98,
+            "protein": 0
+        }
+    },
+    {
+        "desert": "Marshmallow",
+        "nutritionInfo": {
+            "calories": 318,
+            "fat": 0,
+            "carb": 81,
+            "protein": 2
+        }
+    },
+    {
+        "desert": "Nougat",
+        "nutritionInfo": {
+            "calories": 360,
+            "fat": 19,
+            "carb": 9,
+            "protein": 37
+        }
+    },
+    {
+        "desert": "Oreo",
+        "nutritionInfo": {
+            "calories": 437,
+            "fat": 18,
+            "carb": 63,
+            "protein": 4
+        }
+    },
+    {
+        "desert": "Apple betty",
+        "measure": 100,
+        "grams": 150,
+        "nutritionInfo": {
+            "calories": 1,
+            "protein": 29,
+            "carb": 0.5,
+            "fat": 0
+        }
+    },
+    {
+        "desert": "Bread pudding with raisins",
+        "measure": 200,
+        "grams": 374,
+        "nutritionInfo": {
+            "calories": 11,
+            "protein": 56,
+            "carb": 0.2,
+            "fat": 11
+        }
+    },
+    {
+        "desert": "Cakes, angel food",
+        "measure": 40,
+        "grams": 110,
+        "nutritionInfo": {
+            "calories": 3,
+            "protein": 23,
+            "carb": 0,
+            "fat": 0
+        }
+    },
+    {
+        "desert": "Candy, caramels",
+        "measure": 25,
+        "grams": 104,
+        "nutritionInfo": {
+            "calories": 3,
+            "protein": 19,
+            "carb": 0,
+            "fat": 3
+        }
+    },
+    {
+        "desert": "Chocolate syrup",
+        "measure": 40,
+        "grams": 80,
+        "nutritionInfo": {
+            "calories": 12,
+            "protein": 22,
+            "carb": 0,
+            "fat": null
+        }
+    },
+    {
+        "desert": "Doughnuts, cake type",
+        "measure": 33,
+        "grams": 135,
+        "nutritionInfo": {
+            "calories": 2,
+            "protein": 17,
+            "carb": null,
+            "fat": 4
+        }
+    },
+    {
+        "desert": "Gelatin, made with water",
+        "measure": 239,
+        "grams": 155,
+        "nutritionInfo": {
+            "calories": 4,
+            "protein": 36,
+            "carb": 0,
+            "fat": null
+        }
+    },
+    {
+        "desert": "Honey, strained honey, strained",
+        "measure": 42,
+        "grams": 120,
+        "nutritionInfo": {
+            "calories": null,
+            "protein": 30,
+            "carb": 0,
+            "fat": 0
+        }
+    },
+    {
+        "desert": "Ices, lime, orange, etc.",
+        "measure": 150,
+        "grams": 117,
+        "nutritionInfo": {
+            "calories": 0,
+            "protein": 48,
+            "carb": 0,
+            "fat": 0
+        }
+    },
+    {
+        "desert": "Jellies",
+        "measure": 20,
+        "grams": 50,
+        "nutritionInfo": {
+            "calories": 0,
+            "protein": 13,
+            "carb": 0,
+            "fat": 0
+        }
+    },
+    {
+        "desert": "Sugar, beet or cane",
+        "measure": 200,
+        "grams": 770,
+        "nutritionInfo": {
+            "calories": 0,
+            "protein": 199,
+            "carb": 0,
+            "fat": 0
+        }
+    },
+    {
+        "desert": "Syrup, maple",
+        "measure": 40,
+        "grams": 100,
+        "nutritionInfo": {
+            "calories": 0,
+            "protein": 25,
+            "carb": 0,
+            "fat": 0
+        }
+    },
+    {
+        "desert": "Tapioca cream pudding",
+        "measure": 250,
+        "grams": 335,
+        "nutritionInfo": {
+            "calories": 10,
+            "protein": 42,
+            "carb": 0,
+            "fat": 9
+        }
+    }
+]

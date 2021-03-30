@@ -1,0 +1,32 @@
+mutation {
+  createDesert(
+		desert: "cookies",
+    nutritionInfo: {
+      calories: 10,
+      protein: 32,
+      carb: 3.7,
+      fat: 9,
+    }) {
+    desert
+    nutritionInfo {
+      calories,
+      protein,
+      carb,
+      fat
+    }
+  }
+  
+}
+
+query {
+  getAllDeserts {
+    id
+    desert
+    nutritionInfo {
+      calories
+      protein
+      carb
+      fat
+    }
+  }
+}
